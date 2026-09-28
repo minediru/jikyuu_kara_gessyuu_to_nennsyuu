@@ -1,0 +1,6 @@
+{
+  "name": "掛け持ちバイト・副業 月収＆年収シミュレーター",
+  "description": "複数のバイトや副業（時給制・日給制）のシフト頻度を入力して、合計月収・年収・労働時間を瞬時に算出。内訳グラフ、CSV出力、印刷・PDF保存に対応した無料シミュレーションツール。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
